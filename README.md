@@ -3,8 +3,6 @@
 #  PySniffer V1.7
 **Modern, high-performance network traffic analyzer powered by Python.**
 
-[Обзор](#особенности) • [Установка](#установка) • [Использование](#использование) • [Скриншоты](#скриншоты)
-
 </div>
 
 ---
