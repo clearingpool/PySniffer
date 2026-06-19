@@ -3,11 +3,6 @@
 #  PySniffer V1.7
 **Modern, high-performance network traffic analyzer powered by Python.**
 
-[![Python Version](https://img.shields.io)](https://www.python.org)
-[![Framework](https://img.shields.io)](https://www.riverbankcomputing.com)
-[![Library](https://img.shields.io)](https://scapy.net)
-[![License](https://img.shields.io)](LICENSE)
-
 [Обзор](#особенности) • [Установка](#установка) • [Использование](#использование) • [Скриншоты](#скриншоты)
 
 </div>
